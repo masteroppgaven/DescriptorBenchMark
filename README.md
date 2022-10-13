@@ -14,7 +14,7 @@ This will be the main repository for the project's code. **TO BE COMPLETED**.
 
 ### Haakon Gunnarsli and Jonathan Brooks {`Students`}
 
-<img src="./readmefiles/haakon_jonathan.png" width="300">
+<img src="./filesForReadme/haakon_jonathan.png" width="300">
 
 ## License
 
